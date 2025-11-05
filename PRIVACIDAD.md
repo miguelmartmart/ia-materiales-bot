@@ -4,12 +4,11 @@
 
 Esta Política de Privacidad explica cómo JDDC ContaFact Excel (en adelante, "la aplicación", "nosotros" o "nuestro/a") recopila, utiliza, comparte y protege los datos personales que usted nos proporciona o que generamos al usar la aplicación. Lea con atención; si tiene dudas, consulte la sección "Contacto" para comunicarse con nosotros.
 
-IMPORTANTE: Sustituya los marcadores de posición (por ejemplo, [NOMBRE_DEL_CONTROLADOR], [EMAIL_DE_CONTACTO]) por los datos reales de su empresa o responsable de tratamiento antes de publicar.
+IMPORTANTE: Sustituya los marcadores de posición (por ejemplo, Miguel Angel Martin Martin, miguel.angel.mdos120@gmail.com) por los datos reales de su empresa o responsable de tratamiento antes de publicar.
 
 1. Responsable del tratamiento
-- Titular / Responsable: [NOMBRE_DEL_CONTROLADOR]
-- Dirección: [DIRECCIÓN_COMPLETA]
-- Correo electrónico de contacto: [EMAIL_DE_CONTACTO]
+- Titular / Responsable: Miguel Angel Martin Martin
+- Correo electrónico de contacto: miguel.angel.mdos120@gmail.com
 
 2. Alcance y finalidad
 La aplicación está diseñada para [gestionar datos contables y/o generar facturas/importar/exportar datos a Excel — ajuste según funcionalidad real]. Esta Política cubre el tratamiento de datos personales realizado en relación con la prestación de la aplicación y sus servicios asociados.
@@ -87,9 +86,8 @@ Para ejercer sus derechos, contacte a: [EMAIL_DE_CONTACTO]. Responderemos en los
 
 15. Cómo contactarnos
 Si tiene preguntas, quejas o quiere ejercer sus derechos, contacte a:
-- Correo electrónico: [EMAIL_DE_CONTACTO]
-- Dirección postal: [DIRECCIÓN_COMPLETA]
-- Responsable de protección de datos (si aplica): [DPO_EMAIL_O_CONTACTO]
+- Correo electrónico: miguel.angel.mdos120@gmail.com
+- Responsable de protección de datos (si aplica): Miguel Angel Martin Martin
 
 16. Información adicional y personalización
 - Dependiendo de la funcionalidad real de su aplicación (por ejemplo, si ofrece backups en la nube, sincronización multi-dispositivo, facturación electrónica o integración con terceros), debe añadir secciones concretas que especifiquen proveedores, ubicaciones de servidores y cómo se gestiona la información sensible (datos fiscales, números de identificación, datos bancarios).
